@@ -1,0 +1,11 @@
+Project 1 CS 4328 Spring 2020 3/5/20
+Diego Sebastian Santana, Mirna Elizondo
+********************************************
+The program "Pair War" is a POSIX thread showcase. The program takes in an argument value seed in the command line
+After seed input the deck is randomized and shuffled then the program creates 4 threads; 3 players and 1 dealer.
+The threads then instantiate turns and run through three rounds of the Pair War game. Each round a player draws and discards a card
+until one player draws a pair. After a winner is declared then the next round starts and the dealer thread reshuffles and deals again
+and the game continues until three rounds are reached.
+
+In order to run the program must be compiled as such "g++ dsp50_m_e172.cpp -pthread" when compiled it returns an executable
+this is run as "/a.out seed" with seed being a number of choice by the user in the range of 0 - 52. 

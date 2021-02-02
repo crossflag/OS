@@ -1,0 +1,314 @@
+cross@CrossBonesX3:/mnt/c/users/spela/desktop/os/proj1$ ./a.out 32
+Round: 1
+
+Deck: 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 8 8 8 8 9 9 9 9 10 10 10 10 11 11 11 11 12 12 12 12
+PLAYER 1:
+HAND: 7
+WIN! no
+PLAYER 2:
+HAND: 4
+WIN! no
+PLAYER 3:
+HAND: 8
+WIN! no
+PLAYER 1:
+HAND: 7
+WIN! no
+PLAYER 2:
+HAND: 4
+WIN! no
+PLAYER 3:
+HAND: 8 8
+WIN! yes
+Round: 2
+
+Deck: 11 9 7 12 0 4 8 7 10 5 2 6 5 4 3 8 12 2 3 8 7 1 6 0 9 11 10 1 6 2 6 2 4 0 8 3 12 7 9 5 11 7 3 4 9 0 11 1
+PLAYER 1:
+HAND: 11
+WIN! no
+PLAYER 2:
+HAND: 6
+WIN! no
+PLAYER 3:
+HAND: 9
+WIN! no
+PLAYER 1:
+HAND: 11
+WIN! no
+PLAYER 2:
+HAND: 6
+WIN! no
+PLAYER 3:
+HAND: 9
+WIN! no
+PLAYER 1:
+HAND: 11
+WIN! no
+PLAYER 2:
+HAND: 6
+WIN! no
+PLAYER 3:
+HAND: 9
+WIN! no
+PLAYER 1:
+HAND: 11 11
+WIN! yes
+Round: 3
+
+Deck: 2 3 4 1 11 9 11 11 7 7 4 5 11 12 1 1 8 5 9 6 7 9 4 8 6 10 10 6 6 8 5 3 6 0 6 10 2 9 12 3 0 5 2 7
+PLAYER 1:
+HAND: 10
+WIN! no
+PLAYER 2:
+HAND: 6 6
+WIN! yes
+
+cross@CrossBonesX3:/mnt/c/users/spela/desktop/os/proj1$ ./a.out 50
+Round: 1
+
+Deck: 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 8 8 8 8 9 9 9 9 10 10 10 10 11 11 11 11 12 12 12 12
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 3
+WIN! no
+PLAYER 3:
+HAND: 10
+WIN! no
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 3
+WIN! no
+PLAYER 3:
+HAND: 10
+WIN! no
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 3
+WIN! no
+PLAYER 3:
+HAND: 10 10
+WIN! yes
+Round: 2
+
+Deck: 12 3 9 12 3 4 6 7 5 9 12 0 1 5 4 2 5 4 3 3 7 7 11 11 11 3 10 5 4 10 5 10 8 8 0 1 8 0 10 3 12 7 0 8 9 6 2 1
+PLAYER 1:
+HAND: 10
+WIN! no
+PLAYER 2:
+HAND: 4
+WIN! no
+PLAYER 3:
+HAND: 12
+WIN! no
+PLAYER 1:
+HAND: 10 10
+WIN! yes
+Round: 3
+
+Deck: 10 7 4 3 9 3 12 4 11 5 1 11 6 8 9 1 12 0 4 7 8 12 7 4 5 3 3 0 5 5 10 6 3 11 8 0 3 11 12 4 0 1 10 9
+PLAYER 1:
+HAND: 12
+WIN! no
+PLAYER 2:
+HAND: 10
+WIN! no
+PLAYER 3:
+HAND: 5
+WIN! no
+PLAYER 1:
+HAND: 12 12
+WIN! yes
+
+cross@CrossBonesX3:/mnt/c/users/spela/desktop/os/proj1$ ./a.out 1
+Round: 1
+
+Deck: 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 8 8 8 8 9 9 9 9 10 10 10 10 11 11 11 11 12 12 12 12
+PLAYER 1:
+HAND: 9
+WIN! no
+PLAYER 2:
+HAND: 12
+WIN! no
+PLAYER 3:
+HAND: 7 7
+WIN! yes
+Round: 2
+
+Deck: 8 12 4 6 1 9 4 0 6 10 11 3 3 3 7 12 10 12 12 7 7 0 5 8 2 1 9 11 4 4 6 1 5 2 7 5 9 8 10 10 9 3 0 2 6 1 11 9
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 0
+WIN! no
+PLAYER 3:
+HAND: 12
+WIN! no
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 0
+WIN! no
+PLAYER 3:
+HAND: 12
+WIN! no
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 0
+WIN! no
+PLAYER 3:
+HAND: 12
+WIN! no
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 0
+WIN! no
+PLAYER 3:
+HAND: 12
+WIN! no
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 0
+WIN! no
+PLAYER 3:
+HAND: 12
+WIN! no
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 0
+WIN! no
+PLAYER 3:
+HAND: 12
+WIN! no
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 0
+WIN! no
+PLAYER 3:
+HAND: 12
+WIN! no
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 0
+WIN! no
+PLAYER 3:
+HAND: 12
+WIN! no
+PLAYER 1:
+HAND: 5
+WIN! no
+PLAYER 2:
+HAND: 0
+WIN! no
+PLAYER 3:
+HAND: 12
+WIN! no
+PLAYER 1:
+HAND: 5 5
+WIN! yes
+Round: 3
+
+Deck: 0 0 7 9 2 3 12 1 5 3 0 0 11 8 4 5 0 5 12 0 8 12 2 5 5 1 8 5 10 1 6 5 5 10 6 11 0 10 9 12 0 9 9 4
+PLAYER 1:
+HAND: 6
+WIN! no
+PLAYER 2:
+HAND: 11
+WIN! no
+PLAYER 3:
+HAND: 11
+WIN! no
+PLAYER 1:
+HAND: 6
+WIN! no
+PLAYER 2:
+HAND: 11
+WIN! no
+PLAYER 3:
+HAND: 11
+WIN! no
+PLAYER 1:
+HAND: 6
+WIN! no
+PLAYER 2:
+HAND: 11
+WIN! no
+PLAYER 3:
+HAND: 11
+WIN! no
+PLAYER 1:
+HAND: 6
+WIN! no
+PLAYER 2:
+HAND: 11
+WIN! no
+PLAYER 3:
+HAND: 11
+WIN! no
+PLAYER 1:
+HAND: 6
+WIN! no
+PLAYER 2:
+HAND: 11
+WIN! no
+PLAYER 3:
+HAND: 11
+WIN! no
+PLAYER 1:
+HAND: 6
+WIN! no
+PLAYER 2:
+HAND: 11
+WIN! no
+PLAYER 3:
+HAND: 11
+WIN! no
+PLAYER 1:
+HAND: 6
+WIN! no
+PLAYER 2:
+HAND: 11
+WIN! no
+PLAYER 3:
+HAND: 11
+WIN! no
+PLAYER 1:
+HAND: 6
+WIN! no
+PLAYER 2:
+HAND: 11
+WIN! no
+PLAYER 3:
+HAND: 11
+WIN! no
+PLAYER 1:
+HAND: 6
+WIN! no
+PLAYER 2:
+HAND: 11
+WIN! no
+PLAYER 3:
+HAND: 11
+WIN! no
+PLAYER 1:
+HAND: 6 6
+WIN! yes
